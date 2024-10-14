@@ -2,9 +2,7 @@ package com.example.payflow.controller;
 
 import com.example.payflow.dto.LoanDTO;
 import com.example.payflow.dto.LoanDTOPost;
-import com.example.payflow.dto.mapper.LoanDTOMapper;
 import com.example.payflow.model.Loan;
-import com.example.payflow.service.AccountNumberService;
 import com.example.payflow.service.LoanService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
