@@ -2,7 +2,6 @@ package com.example.payflow.controller;
 
 import com.example.payflow.dto.PasswordDTO;
 import com.example.payflow.dto.UserDTO;
-import com.example.payflow.model.User;
 import com.example.payflow.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
